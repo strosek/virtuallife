@@ -1,0 +1,23 @@
+Computer Science Student Community at CUCEI
+===========================================
+
+Virtual life and AI simulator
+=============================
+
+Descripción de la mecánica de funcionamiento del programa y lista de 
+"features" a ser implementados.
+
+Obejtivos principales:
+- Simular un entorno de vida artificial
+- Desarrollar inteligencia artificial
+- Fisica e imitación de quimica genérica
+- Mundo tridimensional con recursos finitos
+- Competencia e interacciones sociales
+- Cerebros y sistemas nerviosos
+- Tiempo
+- Algoritmos genéticos modifcados
+- Moleculas y diferentes tipos de atomos
+- Tejidos básicos
+
+Mecanismos de funcionamiento:
+
